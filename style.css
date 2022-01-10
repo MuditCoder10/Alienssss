@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: #f5f5f5;
+}
+
+.header_div{
+    background: white;
+    color: tomato;
+}
+
+.header_div p{
+    font-family: 'Lucida Sans', sans-serif;
+    color: slategrey;
+    letter-spacing: 4px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Roboto' , sans-serif;
+    margin-top: 30px;
+    width: 125px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:slategrey;
+    bottom:0;
+    width: 100%;
+    font-size: 15px;
+    background-color:whitesmoke ;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(173, 175, 175);
+}
